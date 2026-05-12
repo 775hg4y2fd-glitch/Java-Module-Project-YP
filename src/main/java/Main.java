@@ -37,7 +37,7 @@ public class Main {
     }
 }
 
-class Tachka {
+class Tachka { //
     String name;
     int speed;
     public Tachka(String name, int speed) {
